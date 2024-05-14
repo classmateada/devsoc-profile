@@ -25,6 +25,22 @@ export const About = () => {
           <span className="font-bold">Degree:&nbsp;</span>
           Master of Information Technology (Internetworking)
         </p>
+        <p>
+          <span className="font-bold">Professional Experience:&nbsp;</span>
+          1.5
+        </p>
+        <p>
+          <span className="font-bold">Experience:&nbsp;</span>
+          6
+        </p>
+        <p>
+          <span className="font-bold">Email:&nbsp;</span>
+          classmateada@gmail.com
+        </p>
+        <p>
+          <span className="font-bold">Freelance:&nbsp;</span>
+          Available
+        </p>
       </div>
 
       <h2 className={h2()}>
