@@ -1,7 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   output: 'export',
-  basePath: 'devsoc-profile',
+  basePath: '/devsoc-profile',
   images: {
     unoptimized: true,
   },
