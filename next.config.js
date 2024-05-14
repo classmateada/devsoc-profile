@@ -1,8 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   output: 'export',
-  distDir: 'docs',
-  basePath: '/devsoc-profile'
+  distDir: 'docs'
 }
 
 module.exports = nextConfig
